@@ -47,7 +47,7 @@ Submissions within these subtasks will be evaluated and ranked separately.
 
 ### Content
 
-Human-written texts originate from various sources and are available under open licenses for research purposes. Machine-generated texts are prepared using a range of open-source LLMs of different sizes: small (LLama 3.1 8B, Bielik 7B Instruct, Mistral 7B), medium (Bielik 11B Instruct, Mistral Nemo Instruct, PLLuM 12B Chat) and large [❌ TODO].
+Human-written texts originate from various sources and are available under open licenses for research purposes. Machine-generated texts are prepared using a range of open-source LLMs of different sizes: small (LLama 3.1 8B, Bielik 7B Instruct, Mistral 7B), medium (Bielik 11B Instruct, Mistral Nemo Instruct, PLLuM 12B Chat) and large [❌ TODO]
 
 The dataset texts cover the following domains:
 
