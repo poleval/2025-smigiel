@@ -60,16 +60,11 @@ Machine-generated texts are prepared using a range of open-source LLMs of differ
 - medium: [Bielik 11B](https://huggingface.co/speakleash/Bielik-11B-v2.3-Instruct), [Mistral Nemo](https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407), [PLLuM 12B](https://huggingface.co/CYFRAGOVPL/pllum-12b-nc-chat-250715)
 - large: [Gemma 3 27B](https://huggingface.co/google/gemma-3-27b-it).
 
-The dataset is split into:
+The dataset is balanced as follows:
 
-- training set (with labels)
-- test set (without labels)
-
-The train and test subsets are balanced as follows:
-
-- Each subset contains an equal proportion of human-written and LLM-generated instances.
-- Domains are uniformly represented across subsets.
-- Each subset includes roughly one-third of the LLM-generated texts from each model size.
+- It contains an equal proportion of human-written and LLM-generated instances.
+- Domains are uniformly represented.
+- It includes roughly one-third of the LLM-generated texts from each model size.
 
 ### Format
 
@@ -83,6 +78,10 @@ All texts, whether LLM-generated or human-written, are proportionally shortened 
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | 1   | *The book discusses the statistical revolution which took place in the twentieth century, where science shifted from a deterministic view (Clockwork universe) to a perspective concerned primarily with probabilities and distributions and parameters.* | 0  |
 | 2   | *I don’t eat, sleep, or forget things mid-sentence (unless you want me to role-play as someone who does).*                                                                                                                                                | 1   |
+
+### Test data
+
+Test data will be similar in nature, but will also be based on models and genres unseen during training.
 
 **Test examples**
 
