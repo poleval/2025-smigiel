@@ -107,8 +107,6 @@ The organisers will prepare some simple baseline solutions, relying on mainstrea
 
 **Moreno-Sandoval, A., García-Vega, M., Casado-Molina, A., García-Hernández, R., García-Rodríguez, R., & García-Pablos, A. (2023).** [_Overview of AuTexTification at IberLEF 2023: Detection and attribution of machine-generated text in multiple domains._](https://arxiv.org/abs/2309.11285) arXiv.
 
-**Moreno-Sandoval, A., García-Vega, M., Casado-Molina, A., García-Hernández, R., García-Rodríguez, R., & García-Pablos, A. (2023).** [_Overview of AuTexTification at IberLEF 2023: Detection and attribution of machine-generated text in multiple domains._](https://arxiv.org/abs/2309.11285) arXiv.
-
 **Sarvazyan, A. M., González, J. Á., Franco-Salvador, M., Rangel, F., Chulvi, B., & Rosso, P. (2023).** [_Overview of AuTexTification at IberLEF 2023: Detection and attribution of machine-generated text in multiple domains._](arXiv. https://arxiv.org/abs/2309.11285) arXiv.
 
 **Wang, Y., Mansurov, J., Ivanov, P., Su, J., Shelmanov, A., Tsvigun, A., Mohammed Afzal, O., Mahmoud, T., Puccetti, G., & Arnold, T. (2024).** _[SemEval-2024 Task 8: Multidomain, Multimodal and Multilingual Machine-Generated Text Detection.](https://doi.org/10.18653/v1/2024.semeval-1.279) In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)_ (pp. 2057–2079). Association for Computational Linguistics.
