@@ -110,11 +110,12 @@ The organisers will prepare some simple baseline solutions, relying on mainstrea
 
 ### Submission format − example
 
-* [The submission example](https://github.com/poleval/2025-smigiel/blob/main/extras/out.tsv)
+* [Sample submission file](https://github.com/poleval/2025-smigiel/blob/main/extras/out.tsv)
 
-### PolEval evaluation platform
+### PolEval 2025 evaluation platform
 
 * [Śmigiel − Test A](https://poleval.amueval.pl/challenge/Spotting%20Machine-Generated%20Text%20from%20LLMs%20–%20Test%20A)
+* Śmigiel − Test B
 
 ## 📚 Literature
 
