@@ -108,6 +108,8 @@ The organisers will prepare some simple baseline solutions, relying on mainstrea
 * [test A](https://github.com/poleval/2025-smigiel/tree/main/data/test/test_A)
 * test B
 
+📢 <span style="color:red">**Update 2025-11-04**</span>: Participants who wish to obtain access to the test B data and evaluate their final solutions are kindly asked to complete a [short survey](https://docs.google.com/forms/d/e/1FAIpQLSfzO4jCb3AtFAcUvQdFbATR0HRcD9uN9vEbtfa0uUPBM6h-fw/viewform) by November 6, 2025.
+
 ### Submission format − example
 
 * [Sample submission file](https://github.com/poleval/2025-smigiel/blob/main/extras/out.tsv)
